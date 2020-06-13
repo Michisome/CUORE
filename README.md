@@ -2,7 +2,6 @@
 
 It is a mobile app that manages the OKIGUSURI.
 
-## This is a test of Pull
 ## Getting Started
 
 1. Install Flutter. (https://flutter.dev/docs/get-started/install)
